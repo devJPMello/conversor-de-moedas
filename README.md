@@ -6,12 +6,6 @@ Uma aplicação web simples que permite converter valores de Real (BRL) para out
 
 ---
 
-## 📸 Preview
-
-![Screenshot do Conversor de Moedas](./assets/preview.png)
-
----
-
 ## ✨ Funcionalidades
 
 - 💰 Conversão de Real (BRL) para moedas estrangeiras
